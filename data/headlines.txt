@@ -1,0 +1,7 @@
+#HEJ
+        #print((len(path) - 1) * '---', os.path.basename(root))
+# @adadadasdasd
+    """takes a list of md files and writes all headlines (lines starting with #) to a file"""
+                if line.__contains__("#"):
+# print_line_one(["./test.txt","./tester.py","./testdir/secret.txt"])
+# print_emails(["./test.txt", "./tester.py", "./testdir/secret.txt"])
