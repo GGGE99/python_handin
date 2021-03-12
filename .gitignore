@@ -7,7 +7,7 @@
 **/my_modules/
 **/python_handin2
 **/python_handin_template
-api_keys.txt
+api_keys.py
 
 
 # Created by https://www.gitignore.io/api/python,jupyternotebooks,visualstudiocode
